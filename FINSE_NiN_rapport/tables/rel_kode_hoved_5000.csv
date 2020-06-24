@@ -1,0 +1,61 @@
+ntype_id;ntype_navn;ntype_full
+0;IKKE KARTLAGT;0 IKKE KARTLAGT
+T01;Nakent berg;T01 Nakent berg
+T02;Åpen grunnlendt mark;T02 Åpen grunnlendt mark
+T03;Fjellhei, leside og tundra;T03 Fjellhei, leside og tundra
+T04;Fastmarksskogsmark [skogsmark];T04 Fastmarksskogsmark
+T05;Grotte og overheng;T05 Grotte og overheng
+T06;Strandberg;T06 Strandberg
+T07;Snøleie;T07 Snøleie
+T08;Fuglefjell-eng og fugletopp;T08 Fuglefjell-eng og fugletopp
+T09;Mosetundra;T09 Mosetundra
+T10;Arktisk steppe;T10 Arktisk steppe
+T11;Saltanrikingsmark i fjærebeltet;T11 Saltanrikingsmark i fjærebeltet
+T12;Strandeng;T12 Strandeng
+T13;Rasmark;T13 Rasmark
+T14;Rabbe;T14 Rabbe
+T15;Fosse-eng;T15 Fosse-eng
+T16;Rasmarkhei og -eng;T16 Rasmarkhei og -eng
+T17;Aktiv skredmark;T17 Aktiv skredmark
+T18;Åpen flomfastmark;T18 Åpen flomfastmark
+T19;Oppfrysingsmark;T19 Oppfrysingsmark
+T20;Isinnfrysingsmark;T20 Isinnfrysingsmark
+T21;Sanddynemark;T21 Sanddynemark
+T22;Fjellgrashei og grastundra;T22 Fjellgrashei og grastundra
+T23;Ferskvannsdriftvoll;T23 Ferskvannsdriftvoll
+T24;Driftvoll;T24 Driftvoll
+T25;Historisk skredmark;T25 Historisk skredmark
+T26;Breforland og snøavsmeltingsområde;T26 Breforland og snøavsmeltingsområde
+T27;Blokkmark;T27 Blokkmark
+T28;Polarørken;T28 Polarørken
+T29;Grus- og steindominert strand og strandlinje;T29 Grus- og steindominert strand og strandlinje
+T30;Flomskogsmark;T30 Flomskogsmark
+T31;Boreal hei;T31 Boreal hei
+T32;Semi-naturlig eng;T32 Semi-naturlig eng
+T33;Semi-naturlig strandeng;T33 Semi-naturlig strandeng
+T34;Kystlynghei;T34 Kystlynghei
+T35;Sterkt endret fastmark med løsmassedekke [Løs sterkt endret fastmark];T35 Sterkt endret fastmark med løsmassedekke
+T36;Ny fastmark på tidligere våtmark og ferskvannsbunn [Tørrlagte våtmarks- og ferskvannssystemer];T36 Ny fastmark på tidligere våtmark og ferskvannsbunn
+T37;Ny fastmark på sterkt modifiserte og syntetiske substrater, i rask suksesjon [Ny løs fastmark];T37 Ny fastmark på sterkt modifiserte og syntetiske substrater, i rask suksesjon
+T38;Treplantasje;T38 Treplantasje
+T39;Hard sterkt endret og ny fastmark i langsom suksesjon [Hard sterkt endret fastmark];T39 Hard sterkt endret og ny fastmark i langsom suksesjon
+T40;Sterkt endret fastmark med preg av semi-naturlig eng [Vegkanter, plener, parker og liknende med semi-naturlig engpreg];T40 Sterkt endret fastmark med preg av semi-naturlig eng
+T41;Oppdyrket mark med preg av semi-naturlig eng [Oppdyrket mark med semi-naturlig engpreg];T41 Oppdyrket mark med preg av semi-naturlig eng
+T42;Sterkt endret, hyppig bearbeidet fastmark med intensivt hevdpreg utenom åker [Blomsterbed og annen hyppig bearbeidet mark];T42 Sterkt endret, hyppig bearbeidet fastmark med intensivt hevdpreg utenom åker
+T43;Sterkt endret, varig fastmark med intensivt hevdpreg [Plener, parker og liknende uten semi-naturlig engpreg];T43 Sterkt endret, varig fastmark med intensivt hevdpreg
+T44;Åker;T44 Åker
+T45;Oppdyrket varig eng;T45 Oppdyrket varig eng
+V01;Åpen jordvannsmyr;V01 Åpen jordvannsmyr
+V02;Myr- og sumpskogsmark;V02 Myr- og sumpskogsmark
+V03;Nedbørsmyr;V03 Nedbørsmyr
+V04;Kaldkilde;V04 Kaldkilde
+V05;Varm kilde;V05 Varm kilde
+V06;Våtsnøleie og snøleiekilde;V06 Våtsnøleie og snøleiekilde
+V07;Arktisk permafrost-våtmark;V07 Arktisk permafrost-våtmark
+V08;Strandsumpskogsmark;V08 Strandsumpskogsmark
+V09;Semi-naturlig myr;V09 Semi-naturlig myr
+V10;Semi-naturlig våteng;V10 Semi-naturlig våteng
+V11;Torvtak;V11 Torvtak
+V12;Grøftet torvmark;V12 Grøftet torvmark
+V13;Ny våtmark;V13 Ny våtmark
+L;Ferskvannsbunnsystemer;L - Ferskvannsbunnsystemer
